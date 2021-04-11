@@ -8,12 +8,12 @@ This is a temporary script file.
 import requests
 import pandas
 import mysql.connector
-username = str("Jun@atsspec.com")
-password = str("Xj325489761")
-DBhost = str("read-only-db-replica.cdj1pnsllfod.us-east-1.rds.amazonaws.com")
-DBusername = str("data.jun")
-DBpassword = str("Xj325489761")
-DBname = str("atsspec_net")
+username = str("")
+password = str("")
+DBhost = str("")
+DBusername = str("")
+DBpassword = str("")
+DBname = str("")
 
 def cookie_to_dict(cookie):
     cookie_dict = {}
